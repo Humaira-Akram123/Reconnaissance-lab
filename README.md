@@ -397,37 +397,37 @@ and GoDaddy was identified as the registrar.
 
 ## cURL
 
-<img src="/screenshots/results-of-curl-I.png" alt="cURL Results" width="800">
+<img src="Screenshots/results-of-curl-I.png" alt="cURL Results" width="800">
 
 ---
 
 ## DNSRecon
 
-<img src="./screenshots/results-of-dns-recon.png" alt="DNSRecon Results" width="800">
+<img src="./Screenshots/results-of-dns-recon.png" alt="DNSRecon Results" width="800">
 
 ---
 
 ## Nslookup
 
-<img src="./screenshots/Results-of-nslookup.png" alt="Nslookup Results" width="800">
+<img src="./Screenshots/Results-of-nslookup.png" alt="Nslookup Results" width="800">
 
 ---
 
 ## WAFW00F
 
-<img src="./screenshots/results-of-wafw00f.png" alt="WAFW00F Results" width="800">
+<img src="./Screenshots/results-of-wafw00f.png" alt="WAFW00F Results" width="800">
 
 ---
 
 ## WhatWeb
 
-<img src="./screenshots/results-of-whatweb.png" alt="WhatWeb Results" width="800">
+<img src="./Screenshots/Results-of-watweb.png" alt="WhatWeb Results" width="800">
 
 ---
 
 ## WHOIS
 
-<img src="./screenshots/results-of-whois.png" alt="WHOIS Results" width="800">
+<img src="./Screenshots/results-of-whois.png" alt="WHOIS Results" width="800">
 
 ---
 
@@ -551,19 +551,19 @@ The scan produced the following observations:
 
 ## IP Address
 
-<img src="./screenshots/ip-address.png" alt="IP Address" width="800">
+<img src="./Screenshots/ip-address (1).png" alt="IP Address" width="800">
 
 ---
 
 ## Network Topology
 
-<img src="./screenshots/topology.png" alt="Network Topology" width="800">
+<img src="./Screenshots/topology.png" alt="Network Topology" width="800">
 
 ---
 
 ## Zenmap Results
 
-<img src="./screenshots/zenmap-results.png" alt="Zenmap Results" width="800">
+<img src="./Screenshots/zenmap-results.png" alt="Zenmap Results" width="800">
 
 ---
 
